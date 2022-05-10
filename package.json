@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ddayane.componentes-filhos",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve NvTht7pE0a7L5HTxACI1 --open"
+  }
+}
